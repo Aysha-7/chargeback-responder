@@ -1,0 +1,212 @@
+[
+  {
+    "case_id": "CASE-1000",
+    "action": "MANUAL_REVIEW_REQUIRED",
+    "confidence": 0.0,
+    "actual_label_fraud": false,
+    "response_letter": null
+  },
+  {
+    "case_id": "CASE-1001",
+    "action": "CONTEST",
+    "confidence": 1.0,
+    "actual_label_fraud": false,
+    "response_letter": "Re: Dispute Case CASE-1001\n\nWe are submitting evidence in response to the above chargeback claim.\n- Delivery evidence: Signed delivery confirmation on file, GPS-tagged, timestamp matches order date.\n- Customer communication: Customer messaged support confirming receipt of item on [date].\n- Policy acknowledgement: Refund policy was displayed and accepted at checkout.\n\nBased on the 3 piece(s) of evidence above, we respectfully request that this chargeback be reversed in favor of the merchant.\n\nSincerely,\nMerchant Risk Team"
+  },
+  {
+    "case_id": "CASE-1002",
+    "action": "CONTEST",
+    "confidence": 0.67,
+    "actual_label_fraud": false,
+    "response_letter": "Re: Dispute Case CASE-1002\n\nWe are submitting evidence in response to the above chargeback claim.\n- Delivery evidence: Signed delivery confirmation on file, GPS-tagged, timestamp matches order date.\n- Customer communication: Customer messaged support confirming receipt of item on [date].\n\nBased on the 2 piece(s) of evidence above, we respectfully request that this chargeback be reversed in favor of the merchant.\n\nSincerely,\nMerchant Risk Team"
+  },
+  {
+    "case_id": "CASE-1003",
+    "action": "CONTEST",
+    "confidence": 0.67,
+    "actual_label_fraud": false,
+    "response_letter": "Re: Dispute Case CASE-1003\n\nWe are submitting evidence in response to the above chargeback claim.\n- Delivery evidence: Signed delivery confirmation on file, GPS-tagged, timestamp matches order date.\n- Customer communication: Customer messaged support confirming receipt of item on [date].\n\nBased on the 2 piece(s) of evidence above, we respectfully request that this chargeback be reversed in favor of the merchant.\n\nSincerely,\nMerchant Risk Team"
+  },
+  {
+    "case_id": "CASE-1004",
+    "action": "CONTEST",
+    "confidence": 0.67,
+    "actual_label_fraud": false,
+    "response_letter": "Re: Dispute Case CASE-1004\n\nWe are submitting evidence in response to the above chargeback claim.\n- Delivery evidence: Signed delivery confirmation on file, GPS-tagged, timestamp matches order date.\n- Customer communication: Customer messaged support confirming receipt of item on [date].\n\nBased on the 2 piece(s) of evidence above, we respectfully request that this chargeback be reversed in favor of the merchant.\n\nSincerely,\nMerchant Risk Team"
+  },
+  {
+    "case_id": "CASE-1005",
+    "action": "CONTEST",
+    "confidence": 0.67,
+    "actual_label_fraud": false,
+    "response_letter": "Re: Dispute Case CASE-1005\n\nWe are submitting evidence in response to the above chargeback claim.\n- Delivery evidence: Signed delivery confirmation on file, GPS-tagged, timestamp matches order date.\n- Customer communication: Customer messaged support confirming receipt of item on [date].\n\nBased on the 2 piece(s) of evidence above, we respectfully request that this chargeback be reversed in favor of the merchant.\n\nSincerely,\nMerchant Risk Team"
+  },
+  {
+    "case_id": "CASE-1006",
+    "action": "CONTEST",
+    "confidence": 1.0,
+    "actual_label_fraud": false,
+    "response_letter": "Re: Dispute Case CASE-1006\n\nWe are submitting evidence in response to the above chargeback claim.\n- Delivery evidence: Signed delivery confirmation on file, GPS-tagged, timestamp matches order date.\n- Customer communication: Customer messaged support confirming receipt of item on [date].\n- Policy acknowledgement: Refund policy was displayed and accepted at checkout.\n\nBased on the 3 piece(s) of evidence above, we respectfully request that this chargeback be reversed in favor of the merchant.\n\nSincerely,\nMerchant Risk Team"
+  },
+  {
+    "case_id": "CASE-1007",
+    "action": "CONTEST",
+    "confidence": 1.0,
+    "actual_label_fraud": false,
+    "response_letter": "Re: Dispute Case CASE-1007\n\nWe are submitting evidence in response to the above chargeback claim.\n- Delivery evidence: Signed delivery confirmation on file, GPS-tagged, timestamp matches order date.\n- Customer communication: Customer messaged support confirming receipt of item on [date].\n- Policy acknowledgement: Refund policy was displayed and accepted at checkout.\n\nBased on the 3 piece(s) of evidence above, we respectfully request that this chargeback be reversed in favor of the merchant.\n\nSincerely,\nMerchant Risk Team"
+  },
+  {
+    "case_id": "CASE-1008",
+    "action": "CONTEST",
+    "confidence": 1.0,
+    "actual_label_fraud": false,
+    "response_letter": "Re: Dispute Case CASE-1008\n\nWe are submitting evidence in response to the above chargeback claim.\n- Delivery evidence: Signed delivery confirmation on file, GPS-tagged, timestamp matches order date.\n- Customer communication: Customer messaged support confirming receipt of item on [date].\n- Policy acknowledgement: Refund policy was displayed and accepted at checkout.\n\nBased on the 3 piece(s) of evidence above, we respectfully request that this chargeback be reversed in favor of the merchant.\n\nSincerely,\nMerchant Risk Team"
+  },
+  {
+    "case_id": "CASE-1009",
+    "action": "CONTEST",
+    "confidence": 1.0,
+    "actual_label_fraud": false,
+    "response_letter": "Re: Dispute Case CASE-1009\n\nWe are submitting evidence in response to the above chargeback claim.\n- Delivery evidence: Signed delivery confirmation on file, GPS-tagged, timestamp matches order date.\n- Customer communication: Customer messaged support confirming receipt of item on [date].\n- Policy acknowledgement: Refund policy was displayed and accepted at checkout.\n\nBased on the 3 piece(s) of evidence above, we respectfully request that this chargeback be reversed in favor of the merchant.\n\nSincerely,\nMerchant Risk Team"
+  },
+  {
+    "case_id": "CASE-1010",
+    "action": "CONTEST",
+    "confidence": 0.67,
+    "actual_label_fraud": false,
+    "response_letter": "Re: Dispute Case CASE-1010\n\nWe are submitting evidence in response to the above chargeback claim.\n- Delivery evidence: Signed delivery confirmation on file, GPS-tagged, timestamp matches order date.\n- Customer communication: Customer messaged support confirming receipt of item on [date].\n\nBased on the 2 piece(s) of evidence above, we respectfully request that this chargeback be reversed in favor of the merchant.\n\nSincerely,\nMerchant Risk Team"
+  },
+  {
+    "case_id": "CASE-1011",
+    "action": "CONTEST",
+    "confidence": 0.67,
+    "actual_label_fraud": false,
+    "response_letter": "Re: Dispute Case CASE-1011\n\nWe are submitting evidence in response to the above chargeback claim.\n- Delivery evidence: Signed delivery confirmation on file, GPS-tagged, timestamp matches order date.\n- Customer communication: Customer messaged support confirming receipt of item on [date].\n\nBased on the 2 piece(s) of evidence above, we respectfully request that this chargeback be reversed in favor of the merchant.\n\nSincerely,\nMerchant Risk Team"
+  },
+  {
+    "case_id": "CASE-1012",
+    "action": "CONTEST",
+    "confidence": 0.67,
+    "actual_label_fraud": false,
+    "response_letter": "Re: Dispute Case CASE-1012\n\nWe are submitting evidence in response to the above chargeback claim.\n- Delivery evidence: Signed delivery confirmation on file, GPS-tagged, timestamp matches order date.\n- Customer communication: Customer messaged support confirming receipt of item on [date].\n\nBased on the 2 piece(s) of evidence above, we respectfully request that this chargeback be reversed in favor of the merchant.\n\nSincerely,\nMerchant Risk Team"
+  },
+  {
+    "case_id": "CASE-1013",
+    "action": "CONTEST",
+    "confidence": 0.67,
+    "actual_label_fraud": false,
+    "response_letter": "Re: Dispute Case CASE-1013\n\nWe are submitting evidence in response to the above chargeback claim.\n- Delivery evidence: Signed delivery confirmation on file, GPS-tagged, timestamp matches order date.\n- Policy acknowledgement: Refund policy was displayed and accepted at checkout.\n\nBased on the 2 piece(s) of evidence above, we respectfully request that this chargeback be reversed in favor of the merchant.\n\nSincerely,\nMerchant Risk Team"
+  },
+  {
+    "case_id": "CASE-1014",
+    "action": "CONTEST",
+    "confidence": 0.67,
+    "actual_label_fraud": false,
+    "response_letter": "Re: Dispute Case CASE-1014\n\nWe are submitting evidence in response to the above chargeback claim.\n- Delivery evidence: Signed delivery confirmation on file, GPS-tagged, timestamp matches order date.\n- Customer communication: Customer messaged support confirming receipt of item on [date].\n\nBased on the 2 piece(s) of evidence above, we respectfully request that this chargeback be reversed in favor of the merchant.\n\nSincerely,\nMerchant Risk Team"
+  },
+  {
+    "case_id": "CASE-1015",
+    "action": "CONTEST",
+    "confidence": 1.0,
+    "actual_label_fraud": false,
+    "response_letter": "Re: Dispute Case CASE-1015\n\nWe are submitting evidence in response to the above chargeback claim.\n- Delivery evidence: Signed delivery confirmation on file, GPS-tagged, timestamp matches order date.\n- Customer communication: Customer messaged support confirming receipt of item on [date].\n- Policy acknowledgement: Refund policy was displayed and accepted at checkout.\n\nBased on the 3 piece(s) of evidence above, we respectfully request that this chargeback be reversed in favor of the merchant.\n\nSincerely,\nMerchant Risk Team"
+  },
+  {
+    "case_id": "CASE-1016",
+    "action": "CONTEST",
+    "confidence": 0.67,
+    "actual_label_fraud": false,
+    "response_letter": "Re: Dispute Case CASE-1016\n\nWe are submitting evidence in response to the above chargeback claim.\n- Delivery evidence: Signed delivery confirmation on file, GPS-tagged, timestamp matches order date.\n- Customer communication: Customer messaged support confirming receipt of item on [date].\n\nBased on the 2 piece(s) of evidence above, we respectfully request that this chargeback be reversed in favor of the merchant.\n\nSincerely,\nMerchant Risk Team"
+  },
+  {
+    "case_id": "CASE-1017",
+    "action": "CONTEST",
+    "confidence": 0.67,
+    "actual_label_fraud": true,
+    "response_letter": "Re: Dispute Case CASE-1017\n\nWe are submitting evidence in response to the above chargeback claim.\n- Customer communication: Customer messaged support confirming receipt of item on [date].\n- Policy acknowledgement: Refund policy was displayed and accepted at checkout.\n\nBased on the 2 piece(s) of evidence above, we respectfully request that this chargeback be reversed in favor of the merchant.\n\nSincerely,\nMerchant Risk Team"
+  },
+  {
+    "case_id": "CASE-1018",
+    "action": "DO_NOT_CONTEST_REFUND",
+    "confidence": 0.33,
+    "actual_label_fraud": false,
+    "response_letter": null
+  },
+  {
+    "case_id": "CASE-1019",
+    "action": "CONTEST",
+    "confidence": 0.67,
+    "actual_label_fraud": false,
+    "response_letter": "Re: Dispute Case CASE-1019\n\nWe are submitting evidence in response to the above chargeback claim.\n- Customer communication: Customer messaged support confirming receipt of item on [date].\n- Policy acknowledgement: Refund policy was displayed and accepted at checkout.\n\nBased on the 2 piece(s) of evidence above, we respectfully request that this chargeback be reversed in favor of the merchant.\n\nSincerely,\nMerchant Risk Team"
+  },
+  {
+    "case_id": "CASE-1020",
+    "action": "CONTEST",
+    "confidence": 1.0,
+    "actual_label_fraud": false,
+    "response_letter": "Re: Dispute Case CASE-1020\n\nWe are submitting evidence in response to the above chargeback claim.\n- Delivery evidence: Signed delivery confirmation on file, GPS-tagged, timestamp matches order date.\n- Customer communication: Customer messaged support confirming receipt of item on [date].\n- Policy acknowledgement: Refund policy was displayed and accepted at checkout.\n\nBased on the 3 piece(s) of evidence above, we respectfully request that this chargeback be reversed in favor of the merchant.\n\nSincerely,\nMerchant Risk Team"
+  },
+  {
+    "case_id": "CASE-1021",
+    "action": "DO_NOT_CONTEST_REFUND",
+    "confidence": 0.33,
+    "actual_label_fraud": false,
+    "response_letter": null
+  },
+  {
+    "case_id": "CASE-1022",
+    "action": "CONTEST",
+    "confidence": 0.67,
+    "actual_label_fraud": false,
+    "response_letter": "Re: Dispute Case CASE-1022\n\nWe are submitting evidence in response to the above chargeback claim.\n- Delivery evidence: Signed delivery confirmation on file, GPS-tagged, timestamp matches order date.\n- Customer communication: Customer messaged support confirming receipt of item on [date].\n\nBased on the 2 piece(s) of evidence above, we respectfully request that this chargeback be reversed in favor of the merchant.\n\nSincerely,\nMerchant Risk Team"
+  },
+  {
+    "case_id": "CASE-1023",
+    "action": "CONTEST",
+    "confidence": 1.0,
+    "actual_label_fraud": false,
+    "response_letter": "Re: Dispute Case CASE-1023\n\nWe are submitting evidence in response to the above chargeback claim.\n- Delivery evidence: Signed delivery confirmation on file, GPS-tagged, timestamp matches order date.\n- Customer communication: Customer messaged support confirming receipt of item on [date].\n- Policy acknowledgement: Refund policy was displayed and accepted at checkout.\n\nBased on the 3 piece(s) of evidence above, we respectfully request that this chargeback be reversed in favor of the merchant.\n\nSincerely,\nMerchant Risk Team"
+  },
+  {
+    "case_id": "CASE-1024",
+    "action": "CONTEST",
+    "confidence": 0.67,
+    "actual_label_fraud": false,
+    "response_letter": "Re: Dispute Case CASE-1024\n\nWe are submitting evidence in response to the above chargeback claim.\n- Customer communication: Customer messaged support confirming receipt of item on [date].\n- Policy acknowledgement: Refund policy was displayed and accepted at checkout.\n\nBased on the 2 piece(s) of evidence above, we respectfully request that this chargeback be reversed in favor of the merchant.\n\nSincerely,\nMerchant Risk Team"
+  },
+  {
+    "case_id": "CASE-1025",
+    "action": "DO_NOT_CONTEST_REFUND",
+    "confidence": 0.33,
+    "actual_label_fraud": false,
+    "response_letter": null
+  },
+  {
+    "case_id": "CASE-1026",
+    "action": "CONTEST",
+    "confidence": 1.0,
+    "actual_label_fraud": false,
+    "response_letter": "Re: Dispute Case CASE-1026\n\nWe are submitting evidence in response to the above chargeback claim.\n- Delivery evidence: Signed delivery confirmation on file, GPS-tagged, timestamp matches order date.\n- Customer communication: Customer messaged support confirming receipt of item on [date].\n- Policy acknowledgement: Refund policy was displayed and accepted at checkout.\n\nBased on the 3 piece(s) of evidence above, we respectfully request that this chargeback be reversed in favor of the merchant.\n\nSincerely,\nMerchant Risk Team"
+  },
+  {
+    "case_id": "CASE-1027",
+    "action": "CONTEST",
+    "confidence": 1.0,
+    "actual_label_fraud": false,
+    "response_letter": "Re: Dispute Case CASE-1027\n\nWe are submitting evidence in response to the above chargeback claim.\n- Delivery evidence: Signed delivery confirmation on file, GPS-tagged, timestamp matches order date.\n- Customer communication: Customer messaged support confirming receipt of item on [date].\n- Policy acknowledgement: Refund policy was displayed and accepted at checkout.\n\nBased on the 3 piece(s) of evidence above, we respectfully request that this chargeback be reversed in favor of the merchant.\n\nSincerely,\nMerchant Risk Team"
+  },
+  {
+    "case_id": "CASE-1028",
+    "action": "CONTEST",
+    "confidence": 0.67,
+    "actual_label_fraud": false,
+    "response_letter": "Re: Dispute Case CASE-1028\n\nWe are submitting evidence in response to the above chargeback claim.\n- Delivery evidence: Signed delivery confirmation on file, GPS-tagged, timestamp matches order date.\n- Customer communication: Customer messaged support confirming receipt of item on [date].\n\nBased on the 2 piece(s) of evidence above, we respectfully request that this chargeback be reversed in favor of the merchant.\n\nSincerely,\nMerchant Risk Team"
+  },
+  {
+    "case_id": "CASE-1029",
+    "action": "CONTEST",
+    "confidence": 1.0,
+    "actual_label_fraud": false,
+    "response_letter": "Re: Dispute Case CASE-1029\n\nWe are submitting evidence in response to the above chargeback claim.\n- Delivery evidence: Signed delivery confirmation on file, GPS-tagged, timestamp matches order date.\n- Customer communication: Customer messaged support confirming receipt of item on [date].\n- Policy acknowledgement: Refund policy was displayed and accepted at checkout.\n\nBased on the 3 piece(s) of evidence above, we respectfully request that this chargeback be reversed in favor of the merchant.\n\nSincerely,\nMerchant Risk Team"
+  }
+]

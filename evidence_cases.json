@@ -1,0 +1,302 @@
+[
+  {
+    "case_id": "CASE-1000",
+    "transaction_amount": 190.4,
+    "actual_label_fraud": false,
+    "evidence": {
+      "delivery_confirmation": "Signed delivery confirmation on file, GPS-tagged, timestamp matches order date.",
+      "customer_chat_log": "Customer messaged support confirming receipt of item on [date].",
+      "refund_policy_shown": "Refund policy was displayed and accepted at checkout."
+    }
+  },
+  {
+    "case_id": "CASE-1001",
+    "transaction_amount": 99.0,
+    "actual_label_fraud": false,
+    "evidence": {
+      "delivery_confirmation": "Signed delivery confirmation on file, GPS-tagged, timestamp matches order date.",
+      "customer_chat_log": "Customer messaged support confirming receipt of item on [date].",
+      "refund_policy_shown": "Refund policy was displayed and accepted at checkout."
+    }
+  },
+  {
+    "case_id": "CASE-1002",
+    "transaction_amount": 10.0,
+    "actual_label_fraud": false,
+    "evidence": {
+      "delivery_confirmation": "Signed delivery confirmation on file, GPS-tagged, timestamp matches order date.",
+      "customer_chat_log": "Customer messaged support confirming receipt of item on [date].",
+      "refund_policy_shown": "Refund policy was displayed and accepted at checkout."
+    }
+  },
+  {
+    "case_id": "CASE-1003",
+    "transaction_amount": 88.0,
+    "actual_label_fraud": false,
+    "evidence": {
+      "delivery_confirmation": "Signed delivery confirmation on file, GPS-tagged, timestamp matches order date.",
+      "customer_chat_log": "Customer messaged support confirming receipt of item on [date].",
+      "refund_policy_shown": "Refund policy was displayed and accepted at checkout."
+    }
+  },
+  {
+    "case_id": "CASE-1004",
+    "transaction_amount": 66.0,
+    "actual_label_fraud": false,
+    "evidence": {
+      "delivery_confirmation": "No delivery confirmation on file.",
+      "customer_chat_log": "Customer messaged support confirming receipt of item on [date].",
+      "refund_policy_shown": "No record of policy acceptance."
+    }
+  },
+  {
+    "case_id": "CASE-1005",
+    "transaction_amount": 40.0,
+    "actual_label_fraud": false,
+    "evidence": {
+      "delivery_confirmation": "Signed delivery confirmation on file, GPS-tagged, timestamp matches order date.",
+      "customer_chat_log": "Customer messaged support confirming receipt of item on [date].",
+      "refund_policy_shown": "Refund policy was displayed and accepted at checkout."
+    }
+  },
+  {
+    "case_id": "CASE-1006",
+    "transaction_amount": 440.0,
+    "actual_label_fraud": false,
+    "evidence": {
+      "delivery_confirmation": "Signed delivery confirmation on file, GPS-tagged, timestamp matches order date.",
+      "customer_chat_log": "Customer messaged support confirming receipt of item on [date].",
+      "refund_policy_shown": "Refund policy was displayed and accepted at checkout."
+    }
+  },
+  {
+    "case_id": "CASE-1007",
+    "transaction_amount": 154.0,
+    "actual_label_fraud": false,
+    "evidence": {
+      "delivery_confirmation": "No delivery confirmation on file.",
+      "customer_chat_log": "Customer messaged support confirming receipt of item on [date].",
+      "refund_policy_shown": "Refund policy was displayed and accepted at checkout."
+    }
+  },
+  {
+    "case_id": "CASE-1008",
+    "transaction_amount": 572.0,
+    "actual_label_fraud": false,
+    "evidence": {
+      "delivery_confirmation": "No delivery confirmation on file.",
+      "customer_chat_log": "Customer messaged support confirming receipt of item on [date].",
+      "refund_policy_shown": "No record of policy acceptance."
+    }
+  },
+  {
+    "case_id": "CASE-1009",
+    "transaction_amount": 44.8,
+    "actual_label_fraud": false,
+    "evidence": {
+      "delivery_confirmation": "Signed delivery confirmation on file, GPS-tagged, timestamp matches order date.",
+      "customer_chat_log": "Customer messaged support confirming receipt of item on [date].",
+      "refund_policy_shown": "No record of policy acceptance."
+    }
+  },
+  {
+    "case_id": "CASE-1010",
+    "transaction_amount": 15.0,
+    "actual_label_fraud": false,
+    "evidence": {
+      "delivery_confirmation": "Signed delivery confirmation on file, GPS-tagged, timestamp matches order date.",
+      "customer_chat_log": "Customer messaged support confirming receipt of item on [date].",
+      "refund_policy_shown": "Refund policy was displayed and accepted at checkout."
+    }
+  },
+  {
+    "case_id": "CASE-1011",
+    "transaction_amount": 143.0,
+    "actual_label_fraud": false,
+    "evidence": {
+      "delivery_confirmation": "Signed delivery confirmation on file, GPS-tagged, timestamp matches order date.",
+      "customer_chat_log": "No customer communication on file.",
+      "refund_policy_shown": "No record of policy acceptance."
+    }
+  },
+  {
+    "case_id": "CASE-1012",
+    "transaction_amount": 78.4,
+    "actual_label_fraud": false,
+    "evidence": {
+      "delivery_confirmation": "Signed delivery confirmation on file, GPS-tagged, timestamp matches order date.",
+      "customer_chat_log": "Customer messaged support confirming receipt of item on [date].",
+      "refund_policy_shown": "No record of policy acceptance."
+    }
+  },
+  {
+    "case_id": "CASE-1013",
+    "transaction_amount": 143.0,
+    "actual_label_fraud": false,
+    "evidence": {
+      "delivery_confirmation": "Signed delivery confirmation on file, GPS-tagged, timestamp matches order date.",
+      "customer_chat_log": "Customer messaged support confirming receipt of item on [date].",
+      "refund_policy_shown": "Refund policy was displayed and accepted at checkout."
+    }
+  },
+  {
+    "case_id": "CASE-1014",
+    "transaction_amount": 231.0,
+    "actual_label_fraud": false,
+    "evidence": {
+      "delivery_confirmation": "No delivery confirmation on file.",
+      "customer_chat_log": "Customer messaged support confirming receipt of item on [date].",
+      "refund_policy_shown": "Refund policy was displayed and accepted at checkout."
+    }
+  },
+  {
+    "case_id": "CASE-1015",
+    "transaction_amount": 154.0,
+    "actual_label_fraud": false,
+    "evidence": {
+      "delivery_confirmation": "Signed delivery confirmation on file, GPS-tagged, timestamp matches order date.",
+      "customer_chat_log": "Customer messaged support confirming receipt of item on [date].",
+      "refund_policy_shown": "Refund policy was displayed and accepted at checkout."
+    }
+  },
+  {
+    "case_id": "CASE-1016",
+    "transaction_amount": 110.0,
+    "actual_label_fraud": false,
+    "evidence": {
+      "delivery_confirmation": "Signed delivery confirmation on file, GPS-tagged, timestamp matches order date.",
+      "customer_chat_log": "Customer messaged support confirming receipt of item on [date].",
+      "refund_policy_shown": "No record of policy acceptance."
+    }
+  },
+  {
+    "case_id": "CASE-1017",
+    "transaction_amount": 57.5,
+    "actual_label_fraud": true,
+    "evidence": {
+      "delivery_confirmation": "No delivery confirmation on file.",
+      "customer_chat_log": "Customer messaged support confirming receipt of item on [date].",
+      "refund_policy_shown": "Refund policy was displayed and accepted at checkout."
+    }
+  },
+  {
+    "case_id": "CASE-1018",
+    "transaction_amount": 78.4,
+    "actual_label_fraud": false,
+    "evidence": {
+      "delivery_confirmation": "Signed delivery confirmation on file, GPS-tagged, timestamp matches order date.",
+      "customer_chat_log": "Customer messaged support confirming receipt of item on [date].",
+      "refund_policy_shown": "Refund policy was displayed and accepted at checkout."
+    }
+  },
+  {
+    "case_id": "CASE-1019",
+    "transaction_amount": 92.0,
+    "actual_label_fraud": false,
+    "evidence": {
+      "delivery_confirmation": "Signed delivery confirmation on file, GPS-tagged, timestamp matches order date.",
+      "customer_chat_log": "Customer messaged support confirming receipt of item on [date].",
+      "refund_policy_shown": "Refund policy was displayed and accepted at checkout."
+    }
+  },
+  {
+    "case_id": "CASE-1020",
+    "transaction_amount": 220.0,
+    "actual_label_fraud": false,
+    "evidence": {
+      "delivery_confirmation": "Signed delivery confirmation on file, GPS-tagged, timestamp matches order date.",
+      "customer_chat_log": "No customer communication on file.",
+      "refund_policy_shown": "Refund policy was displayed and accepted at checkout."
+    }
+  },
+  {
+    "case_id": "CASE-1021",
+    "transaction_amount": 154.0,
+    "actual_label_fraud": false,
+    "evidence": {
+      "delivery_confirmation": "No delivery confirmation on file.",
+      "customer_chat_log": "Customer messaged support confirming receipt of item on [date].",
+      "refund_policy_shown": "Refund policy was displayed and accepted at checkout."
+    }
+  },
+  {
+    "case_id": "CASE-1022",
+    "transaction_amount": 121.0,
+    "actual_label_fraud": false,
+    "evidence": {
+      "delivery_confirmation": "Signed delivery confirmation on file, GPS-tagged, timestamp matches order date.",
+      "customer_chat_log": "Customer messaged support confirming receipt of item on [date].",
+      "refund_policy_shown": "No record of policy acceptance."
+    }
+  },
+  {
+    "case_id": "CASE-1023",
+    "transaction_amount": 88.0,
+    "actual_label_fraud": false,
+    "evidence": {
+      "delivery_confirmation": "Signed delivery confirmation on file, GPS-tagged, timestamp matches order date.",
+      "customer_chat_log": "Customer messaged support confirming receipt of item on [date].",
+      "refund_policy_shown": "No record of policy acceptance."
+    }
+  },
+  {
+    "case_id": "CASE-1024",
+    "transaction_amount": 55.0,
+    "actual_label_fraud": false,
+    "evidence": {
+      "delivery_confirmation": "Signed delivery confirmation on file, GPS-tagged, timestamp matches order date.",
+      "customer_chat_log": "Customer messaged support confirming receipt of item on [date].",
+      "refund_policy_shown": "No record of policy acceptance."
+    }
+  },
+  {
+    "case_id": "CASE-1025",
+    "transaction_amount": 69.0,
+    "actual_label_fraud": false,
+    "evidence": {
+      "delivery_confirmation": "Signed delivery confirmation on file, GPS-tagged, timestamp matches order date.",
+      "customer_chat_log": "Customer messaged support confirming receipt of item on [date].",
+      "refund_policy_shown": "Refund policy was displayed and accepted at checkout."
+    }
+  },
+  {
+    "case_id": "CASE-1026",
+    "transaction_amount": 34.5,
+    "actual_label_fraud": false,
+    "evidence": {
+      "delivery_confirmation": "No delivery confirmation on file.",
+      "customer_chat_log": "Customer messaged support confirming receipt of item on [date].",
+      "refund_policy_shown": "Refund policy was displayed and accepted at checkout."
+    }
+  },
+  {
+    "case_id": "CASE-1027",
+    "transaction_amount": 69.0,
+    "actual_label_fraud": false,
+    "evidence": {
+      "delivery_confirmation": "Signed delivery confirmation on file, GPS-tagged, timestamp matches order date.",
+      "customer_chat_log": "Customer messaged support confirming receipt of item on [date].",
+      "refund_policy_shown": "Refund policy was displayed and accepted at checkout."
+    }
+  },
+  {
+    "case_id": "CASE-1028",
+    "transaction_amount": 115.0,
+    "actual_label_fraud": false,
+    "evidence": {
+      "delivery_confirmation": "Signed delivery confirmation on file, GPS-tagged, timestamp matches order date.",
+      "customer_chat_log": "Customer messaged support confirming receipt of item on [date].",
+      "refund_policy_shown": "Refund policy was displayed and accepted at checkout."
+    }
+  },
+  {
+    "case_id": "CASE-1029",
+    "transaction_amount": 420.0,
+    "actual_label_fraud": false,
+    "evidence": {
+      "delivery_confirmation": "Signed delivery confirmation on file, GPS-tagged, timestamp matches order date.",
+      "customer_chat_log": "Customer messaged support confirming receipt of item on [date].",
+      "refund_policy_shown": "No record of policy acceptance."
+    }
+  }
+]

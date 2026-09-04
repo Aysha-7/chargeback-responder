@@ -1,0 +1,212 @@
+[
+  {
+    "case_id": "CASE-1000",
+    "decision": "MANUAL_REVIEW_REQUIRED",
+    "confidence": 0.0,
+    "reasoning": "Decision based on 3 evidence signals evaluated.",
+    "human_review_required": true
+  },
+  {
+    "case_id": "CASE-1001",
+    "decision": "CONTEST",
+    "confidence": 1.0,
+    "reasoning": "Decision based on 3 evidence signals evaluated.",
+    "human_review_required": false
+  },
+  {
+    "case_id": "CASE-1002",
+    "decision": "CONTEST",
+    "confidence": 0.67,
+    "reasoning": "Decision based on 3 evidence signals evaluated.",
+    "human_review_required": false
+  },
+  {
+    "case_id": "CASE-1003",
+    "decision": "CONTEST",
+    "confidence": 0.67,
+    "reasoning": "Decision based on 3 evidence signals evaluated.",
+    "human_review_required": false
+  },
+  {
+    "case_id": "CASE-1004",
+    "decision": "CONTEST",
+    "confidence": 0.67,
+    "reasoning": "Decision based on 3 evidence signals evaluated.",
+    "human_review_required": false
+  },
+  {
+    "case_id": "CASE-1005",
+    "decision": "CONTEST",
+    "confidence": 0.67,
+    "reasoning": "Decision based on 3 evidence signals evaluated.",
+    "human_review_required": false
+  },
+  {
+    "case_id": "CASE-1006",
+    "decision": "CONTEST",
+    "confidence": 1.0,
+    "reasoning": "Decision based on 3 evidence signals evaluated.",
+    "human_review_required": false
+  },
+  {
+    "case_id": "CASE-1007",
+    "decision": "CONTEST",
+    "confidence": 1.0,
+    "reasoning": "Decision based on 3 evidence signals evaluated.",
+    "human_review_required": false
+  },
+  {
+    "case_id": "CASE-1008",
+    "decision": "CONTEST",
+    "confidence": 1.0,
+    "reasoning": "Decision based on 3 evidence signals evaluated.",
+    "human_review_required": false
+  },
+  {
+    "case_id": "CASE-1009",
+    "decision": "CONTEST",
+    "confidence": 1.0,
+    "reasoning": "Decision based on 3 evidence signals evaluated.",
+    "human_review_required": false
+  },
+  {
+    "case_id": "CASE-1010",
+    "decision": "CONTEST",
+    "confidence": 0.67,
+    "reasoning": "Decision based on 3 evidence signals evaluated.",
+    "human_review_required": false
+  },
+  {
+    "case_id": "CASE-1011",
+    "decision": "CONTEST",
+    "confidence": 0.67,
+    "reasoning": "Decision based on 3 evidence signals evaluated.",
+    "human_review_required": false
+  },
+  {
+    "case_id": "CASE-1012",
+    "decision": "CONTEST",
+    "confidence": 0.67,
+    "reasoning": "Decision based on 3 evidence signals evaluated.",
+    "human_review_required": false
+  },
+  {
+    "case_id": "CASE-1013",
+    "decision": "CONTEST",
+    "confidence": 0.67,
+    "reasoning": "Decision based on 3 evidence signals evaluated.",
+    "human_review_required": false
+  },
+  {
+    "case_id": "CASE-1014",
+    "decision": "CONTEST",
+    "confidence": 0.67,
+    "reasoning": "Decision based on 3 evidence signals evaluated.",
+    "human_review_required": false
+  },
+  {
+    "case_id": "CASE-1015",
+    "decision": "CONTEST",
+    "confidence": 1.0,
+    "reasoning": "Decision based on 3 evidence signals evaluated.",
+    "human_review_required": false
+  },
+  {
+    "case_id": "CASE-1016",
+    "decision": "CONTEST",
+    "confidence": 0.67,
+    "reasoning": "Decision based on 3 evidence signals evaluated.",
+    "human_review_required": false
+  },
+  {
+    "case_id": "CASE-1017",
+    "decision": "CONTEST",
+    "confidence": 0.67,
+    "reasoning": "Decision based on 3 evidence signals evaluated.",
+    "human_review_required": false
+  },
+  {
+    "case_id": "CASE-1018",
+    "decision": "DO_NOT_CONTEST_REFUND",
+    "confidence": 0.33,
+    "reasoning": "Decision based on 3 evidence signals evaluated.",
+    "human_review_required": true
+  },
+  {
+    "case_id": "CASE-1019",
+    "decision": "CONTEST",
+    "confidence": 0.67,
+    "reasoning": "Decision based on 3 evidence signals evaluated.",
+    "human_review_required": false
+  },
+  {
+    "case_id": "CASE-1020",
+    "decision": "CONTEST",
+    "confidence": 1.0,
+    "reasoning": "Decision based on 3 evidence signals evaluated.",
+    "human_review_required": false
+  },
+  {
+    "case_id": "CASE-1021",
+    "decision": "DO_NOT_CONTEST_REFUND",
+    "confidence": 0.33,
+    "reasoning": "Decision based on 3 evidence signals evaluated.",
+    "human_review_required": true
+  },
+  {
+    "case_id": "CASE-1022",
+    "decision": "CONTEST",
+    "confidence": 0.67,
+    "reasoning": "Decision based on 3 evidence signals evaluated.",
+    "human_review_required": false
+  },
+  {
+    "case_id": "CASE-1023",
+    "decision": "CONTEST",
+    "confidence": 1.0,
+    "reasoning": "Decision based on 3 evidence signals evaluated.",
+    "human_review_required": false
+  },
+  {
+    "case_id": "CASE-1024",
+    "decision": "CONTEST",
+    "confidence": 0.67,
+    "reasoning": "Decision based on 3 evidence signals evaluated.",
+    "human_review_required": false
+  },
+  {
+    "case_id": "CASE-1025",
+    "decision": "DO_NOT_CONTEST_REFUND",
+    "confidence": 0.33,
+    "reasoning": "Decision based on 3 evidence signals evaluated.",
+    "human_review_required": true
+  },
+  {
+    "case_id": "CASE-1026",
+    "decision": "CONTEST",
+    "confidence": 1.0,
+    "reasoning": "Decision based on 3 evidence signals evaluated.",
+    "human_review_required": false
+  },
+  {
+    "case_id": "CASE-1027",
+    "decision": "CONTEST",
+    "confidence": 1.0,
+    "reasoning": "Decision based on 3 evidence signals evaluated.",
+    "human_review_required": false
+  },
+  {
+    "case_id": "CASE-1028",
+    "decision": "CONTEST",
+    "confidence": 0.67,
+    "reasoning": "Decision based on 3 evidence signals evaluated.",
+    "human_review_required": false
+  },
+  {
+    "case_id": "CASE-1029",
+    "decision": "CONTEST",
+    "confidence": 1.0,
+    "reasoning": "Decision based on 3 evidence signals evaluated.",
+    "human_review_required": false
+  }
+]
