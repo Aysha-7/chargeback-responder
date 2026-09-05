@@ -2,8 +2,7 @@
 # Chargeback Evidence Responder
 
 An agent that classifies disputed transactions as winnable/not winnable, drafts evidence-based
-dispute responses for winnable cases, and logs every decision for audit — built for the
-Razorpay AI Buildathon, AI Risk Manager track.
+dispute responses for winnable cases, and logs every decision for audit.
 
 ## Problem
 Merchants lose revenue to chargebacks even when they have evidence to win the dispute, because
